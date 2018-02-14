@@ -6,4 +6,6 @@ These are all pretty narrow in their usefulness - but you might be able to find 
 ## Index
 ### Lectionizer ✝️
 
+[todays_lectionary.ps1](https://github.com/madvlad/PowershellMicroscripts/blob/master/todays_lectionary.ps1)
+
 Queries USCCB to get current day's readings and spits them out in the terminal
