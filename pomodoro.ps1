@@ -1,4 +1,5 @@
 # Stupid simple pomodoro timer. Put it in a terminal and make it as small as you want. No loud beeping or light flashing.
+# Have to cut off your pomodoro? CTRL+C. No saving history. Ruining a pomodoro is a death sentence!
 
 $pomCount = 0;
 
