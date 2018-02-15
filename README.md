@@ -4,7 +4,7 @@
 These are all pretty narrow in their usefulness - but you might be able to find a little bit of utility from them.
 
 ## Index
-### Atmospheromatic 🌴
+### Atmomatic 🌴
 [atmospheres.ps1](https://github.com/madvlad/PowershellMicroscripts/blob/master/atmospheres.ps1): Play an ambience atmosphere song in an invisible IE window. Add more youtube links to the script if you want different songs to play
 
 ### Lectionizer ✝️
